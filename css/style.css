@@ -1,0 +1,32 @@
+html, body {
+	height: 100%;
+	margin: auto;
+}
+.zone {
+	width: 80%;
+    height: 50%;
+	border: 1px solid black;
+	clear:both;
+	text-align: center;
+	font-size: 3em;
+	margin: auto;
+}
+
+.message {
+	background-color: "blue";
+}
+
+.playAgain {
+	display:none;
+}
+
+.playerName {
+	margin-top: 20%;
+}
+
+#dash {
+	height: 30px;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
